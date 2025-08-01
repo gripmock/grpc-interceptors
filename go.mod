@@ -2,7 +2,7 @@ module github.com/gripmock/grpc-interceptors
 
 go 1.24
 
-require google.golang.org/grpc v1.74.0
+require google.golang.org/grpc v1.74.2
 
 require (
 	golang.org/x/net v0.40.0 // indirect
